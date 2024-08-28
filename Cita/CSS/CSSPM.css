@@ -1,0 +1,28 @@
+﻿header.Cabecera {
+    color: #1c2841;
+    margin-left: 0px;
+    font-size: 15px;
+    padding: 30px;
+    background-color: #1c2841;
+}
+.Cabecera a {
+    color: #ffffff;
+    font-family: 'Segoe UI';
+    text-decoration: none;
+}
+.Inicio {
+    margin-right: 30px;
+    font-size: 30px;
+    text-decoration: none;
+}
+footer {
+    padding: 20px;
+    background-color: #1c2841;
+
+}
+footer p{
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    font-family:'Segoe UI';
+}

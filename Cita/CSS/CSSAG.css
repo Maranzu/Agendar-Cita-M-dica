@@ -1,0 +1,16 @@
+﻿.Contenido-pagina {
+    background-color: #143c6455;
+    position: relative;
+}
+img{
+    width: 100%;
+    height: 50%;
+}
+.Contenido-pagina p {
+    text-align: center;
+    color: #ae32c6;
+    font-size: 60px;
+    position: absolute;
+    font-family: 'Segoe UI';
+    margin: 10px;
+}

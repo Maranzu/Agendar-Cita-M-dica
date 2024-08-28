@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Inicio.master.cs" Inherits="Cita.Inicio" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>AGENDAR CITAS MÉDICAS</title>
+    <link href="../CSS/CSSPM.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header class="Cabecera">
+        <nav>
+            <a class="Inicio"; href="../Agendar.aspx"><strong>INICIO</strong></a>
+            <a class="Cita"; href="../CitaAgenda.aspx">AGENDAR CITA MÉDICA</a>
+        </nav>
+    </header>
+    <section>
+        <form id="form1" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+    </section>
+    <footer>
+        <p> ¡Recuerda siempre hacerte un chequeo médico una vez al año!</p>
+    </footer>
+</body>
+</html>
