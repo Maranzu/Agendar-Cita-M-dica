@@ -1,4 +1,3 @@
-﻿# app web agendamiento de cita
 # App Web Agendamiento de Cita
 Este proyecto es una aplicación web diseñada para la gestión y agendamiento de citas. Aún está en desarrollo y es un trabajo de tarea.
 
