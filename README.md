@@ -8,7 +8,6 @@ Recordatorios: Notificaciones para recordar a los usuarios sobre sus citas próx
 Interfaz de Usuario: Una interfaz sencilla e intuitiva para facilitar la interacción con la aplicación.
 Tecnologías Utilizadas
 Lenguaje: HTML, CSS, JavaScript
-Framework: (Indicar si se usa algún framework como React, Vue, etc.)
 Instrucciones de Instalación
 Clona el repositorio: git clone https://github.com/Maranzu/app-web-agendamiento-cita.git
 Navega a la carpeta del proyecto.
